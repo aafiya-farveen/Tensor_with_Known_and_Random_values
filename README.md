@@ -12,16 +12,17 @@ Make sure you have TensorFlow installed. You can install it using the following 
 
     !pip install tensorflow --quiet
 
-##Clone the Repository
-###Clone this repository to your local machine:
+
+## Clone the Repository
+### Clone this repository to your local machine:
 
     git clone https://github.com/aafiya-farveen/Tensor_with_Known_and_Random_Values.git
 
     cd Tensor_with_Known_and_Random_Values
 
 
-##Run the TensorFlow Script
-###Execute the Tensorflow.ipynb notebook to run the TensorFlow 
+## Run the TensorFlow Script
+### Execute the Tensorflow.ipynb notebook to run the TensorFlow 
 
 
     jupyter notebook Tensorflow.ipynb
